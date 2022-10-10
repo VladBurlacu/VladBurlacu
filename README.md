@@ -1,5 +1,5 @@
 <img src="GitHubBanner.png">
-<p><a href="www.linkedin.com/in/vlad-burlacu-8a9163238"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/vladburlacu1993/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
+<p><a href="https://www.linkedin.com/in/vlad-burlacu-8a9163238"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/vladburlacu1993/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
 
 ## 🙋‍♂️ About me
 
@@ -9,7 +9,7 @@ a career path and dive into the world of web development.
 
 
 - 🔭 I’m currently working on <a href="https://github.com/VladBurlacu/Discovering-Laravel">Discovering Laravel</a>.</li>
-- 🧐 🌱 I’m working on several projects, trying to improve my knowledge and skills</li>
+- 🧐 I’m working on several projects, trying to improve my knowledge and skills</li>
 - 📫 How to reach me:
 - 📫 [email](mailto:vladburlacu1337@gmail.com)
 - 📫 Discord: Dracula#1883
