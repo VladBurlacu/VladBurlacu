@@ -54,6 +54,7 @@ a career path and dive into the world of web development.
         <th align="center" style="text-align:center">ExpressJS</th>
         <th align="center" style="text-align:center">Symfony</th>
         <th align="center" style="text-align:center">Git</th>
+        <th align="center" style="text-align:center">Laravel</th>
       </thead>
       <tbody>
         <td align="center" style="text-align:center">
