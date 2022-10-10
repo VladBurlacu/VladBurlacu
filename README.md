@@ -51,7 +51,6 @@ a career path and dive into the world of web development.
         <th align="center" style="text-align:center">TailwindCSS</th>
         <th align="center" style="text-align:center">ReactJS</th>
         <th align="center" style="text-align:center">Angular</th>
-        <th align="center" style="text-align:center">ExpressJS</th>
         <th align="center" style="text-align:center">Symfony</th>
         <th align="center" style="text-align:center">Git</th>
         <th align="center" style="text-align:center">Laravel</th>
@@ -68,9 +67,6 @@ a career path and dive into the world of web development.
         </td>
         <td align="center" style="text-align:center">
           <img src="./assets/Tools/48x_angular.svg" alt="Angular" />
-        </td>
-        <td align="center" style="text-align:center;background-color:smokewhite;">
-          <img src="./assets/Tools/48x_expressjs_light.svg" alt="ExpressJS" />
         </td>
         <td align="center" style="text-align:center">
           <img src="./assets/Tools/48x_symfony.svg" alt="Symfony" />
