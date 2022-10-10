@@ -7,11 +7,9 @@ My name is Vlad Burlacu, I'm an aspiring Junior Fullstack Web Developer. Origina
 professions and become a Web Developer. So here I am! Working and studying hard to make my newly found passion
 a career path and dive into the world of web development.
 
-<ul>
-<li>🔭 I’m currently working on <a href="https://github.com/VladBurlacu/Discovering-Laravel">Discovering Laravel</a>.</li>
-<li>🧐 🌱 I’m working on several projects, trying to improve my knowledge and skills</li>
-</ul>
 
+- 🔭 I’m currently working on <a href="https://github.com/VladBurlacu/Discovering-Laravel">Discovering Laravel</a>.</li>
+- 🧐 🌱 I’m working on several projects, trying to improve my knowledge and skills</li>
 - 📫 How to reach me:
 - 📫 [email](mailto:vladburlacu1337@gmail.com)
 - 📫 Discord: Dracula#1883
