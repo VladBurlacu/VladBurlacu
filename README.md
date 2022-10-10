@@ -10,9 +10,7 @@ a career path and dive into the world of web development.
 - 🔭 I’m currently working on <a href="https://github.com/VladBurlacu/Discovering-Laravel">Discovering Laravel</a>.</li>
 - 🧐 I’m working on several projects, trying to improve my knowledge and skills</li>
 - 📫 How to reach me:
-- 📫 [email](mailto:vladburlacu1337@gmail.com)
-- 📫 Discord: Dracula#1883
-
+- <a href="mailto:vladburlacu1337@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 ### 🧑🏼‍💻 Languages I used in my projects 🧩
 
 <table>
@@ -80,6 +78,10 @@ a career path and dive into the world of web development.
       </tbody>
 </table>
 </center>
+
+### Join my Discord! 
+<a href="https://discord.gg/pVwx3Z3bDD"><img src="https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png" alt="DiscordLogo" width="100" height="100"></a>
+
 
 <!--
 **VladBurlacu/VladBurlacu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
