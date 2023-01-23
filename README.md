@@ -7,7 +7,7 @@ My name is Vlad Burlacu, I'm an aspiring Junior Fullstack Web Developer. Origina
 professions and become a Web Developer. So here I am! Working and studying hard to make my newly found passion
 a career path and dive into the world of web development.
 
-- 🔭 I’m currently working on <a href="https://github.com/VladBurlacu/DatingWebsite">Discovering Laravel</a>.</li>
+- 🔭 I’m currently working on <a href="https://github.com/VladBurlacu/DatingWebsite">Personal Project: Dating Website</a>.</li>
 - 🧐 I’m working on several projects, trying to improve my knowledge and skills</li>
 - 📫 How to reach me:
 - <a href="mailto:vladburlacu1337@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
